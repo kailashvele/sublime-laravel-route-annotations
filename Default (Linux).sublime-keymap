@@ -1,0 +1,9 @@
+[
+    {
+        "keys": ["ctrl+shift+u"],
+        "command": "laravel_routes_toggle",
+        "context": [
+            { "key": "selector", "operator": "equal", "operand": "source.php" }
+        ]
+    }
+]

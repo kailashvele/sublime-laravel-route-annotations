@@ -1,0 +1,7 @@
+{
+    "name": "Laravel Route Annotations",
+    "description": "Shows route path annotations for Laravel routes",
+    "version": "1.0.0",
+    "sublime_text": ">=4000",
+    "platforms": ["*"]
+}

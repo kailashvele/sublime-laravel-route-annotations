@@ -1,0 +1,6 @@
+[
+    {
+        "caption": "Laravel Routes: Toggle Annotations",
+        "command": "laravel_routes_toggle"
+    }
+]
